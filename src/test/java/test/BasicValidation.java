@@ -19,11 +19,9 @@ public class BasicValidation extends BaseTest {
 		//make changes
 		//second change
 		//make changes in T1 branch yes - updated
-<<<<<<< Updated upstream
-			// testing from y
-=======
+		// testing from y
 		//testing from z
->>>>>>> Stashed changes
+
 	}
 	
 }
