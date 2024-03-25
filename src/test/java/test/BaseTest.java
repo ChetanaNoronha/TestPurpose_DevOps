@@ -18,6 +18,10 @@ public class BaseTest {
 	@AfterTest
 	public void teardown() {
 		// close the browser
+<<<<<<< Updated upstream
 		driver.get(url); // changes from dev2
+=======
+		driver.get(url); //changes from R1
+>>>>>>> Stashed changes
 	}
 }
