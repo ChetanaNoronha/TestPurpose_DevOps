@@ -18,6 +18,6 @@ public class BaseTest {
 	@AfterTest
 	public void teardown() {
 		// close the browser
-		driver.get(url);
+		driver.get(url); // changes from dev2
 	}
 }
